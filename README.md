@@ -1,5 +1,5 @@
 # desafioDIO2
-Repositório criado para desenvolver atividade do Bootcamp Santander - Criando Jogos com Godot e para testar conteúdo ensinado em aula.
+Repositório criado para desenvolver atividade do Bootcamp Santander - Criando Jogos com Godot e para testar conteúdo ensinado em aula. Contém resolução da atividade proposta no desafio Calculadora de Partidas Rankeadas com uso específico de funções, estruturas de decisão (if, else if e else), operadores (de atribuição, aritméticos e relacionais) e variáveis.
 
 Instruções para entrega
  # 2️⃣ Calculadora de partidas Rankeadas
